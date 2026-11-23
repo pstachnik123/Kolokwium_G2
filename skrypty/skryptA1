@@ -1,0 +1,1 @@
+grep -h "ERROR" dane/*.log | sort > raporty/bledy.txt

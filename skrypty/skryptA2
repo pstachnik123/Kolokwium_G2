@@ -1,0 +1,1 @@
+wc -l < raporty/bledy.txt > raporty/ile_bledy.txt
